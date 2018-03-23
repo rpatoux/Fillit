@@ -7,3 +7,9 @@ possible pouvant les acueillir.
 
 Un Tetriminos est une figure géométrique formée de 4 blocs que vous connaissez
 grâce au célèbre jeu Tetris.
+
+Fillit ne consiste pas à recoder Tetris, mais reste une variante du jeu dans l’esprit.
+Le programme prendra en paramètre un fichier décrivant une liste de Tetriminos
+qu’il devra ensuite agencer entre eux pour former le plus petit carré possible. 
+Le but est bien entendu de trouver ce plus petit carré le plus rapidement possible malgré un nombre
+d’agencements qui croît de manière explosive avec chaque pièce supplémentaire.
